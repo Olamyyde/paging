@@ -1,4 +1,4 @@
-package com.example.paging;
+package com.example.paging.model;
 
 
 import lombok.Data;
